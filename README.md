@@ -1,4 +1,4 @@
-<h2 align='center'><code>< HelloWorld 🖖 ></code>   I'm Urielox 🐇</h2>
+<h2 align='center'><code>< HelloWorld 👋></code>   I'm Urielox 🐇</h2>
 # 💫 About Me:
 - 🔭 I’m currently working on my carrer as Computer Science at IPN<br>- 🌱 I’m currently learning about web and Blender<br>- 👯 I’m looking to collaborate on tech projects with interesting topics<br>- 🤔 I’m looking for help with: Find a job in tech 😅<br>- 💬 Ask me about: Anything and if I don't know we will find out<br>- 📫 How to reach me: Just send me a message at any social media<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I learn fast
 
